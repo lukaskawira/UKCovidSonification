@@ -11,5 +11,5 @@ Sonic artefact created based on COVID data, submitted as University of London - 
 
 # To run the notebook
 1.  install the required library from requirements.txt
-2.  by pip install -r requirement.txt
+2.  pip install -r requirement.txt
 3.  then run the code per insert using shift+enter
